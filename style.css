@@ -1,0 +1,36 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      border: 1px solid black;
+}
+body{
+      height: 100vh;
+    background-image: url(hhttps://hinhanhdephd.com/wp-content/uploads/2020/03/hinh-nen-may-tinh-hinh-nen-4k-25.jpg);
+}
+
+.tool {
+      background-color: rgb(165, 230, 208);
+      display: flex;
+      align-items: center;
+}
+.tool > *{
+      height: 40px;
+      width: 40px;
+      background:rgb(240, 242, 241);
+      margin: 5px;
+      font-size:  20px;
+      padding:  5px;
+      display:  flex;
+      justify-content: center;
+      align-items:  center;
+}
+      
+#save{
+      margin-left: auto;
+}
+
+canvas {
+      display: flex;
+     justify-content: center;
+}

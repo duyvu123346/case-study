@@ -1,0 +1,5 @@
+Ứng dụng vẽ paint:
+- vẽ bằng chuột
+- xóa nét vẽ
+- reset
+- tăng giảm cỡ nét bút
